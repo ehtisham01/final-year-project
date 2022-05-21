@@ -12,7 +12,7 @@ Steps you must folow to run this project.
 
 step_1: 
 Donwload packages from nuget package manager in visual studio
-Go to tools and click on Nuget Package Manager, and then click Package Manager Console, where you can restore button and click on restore button to add packages.
+Go to tools and click on Nuget Package Manager, and then click Package Manager Console, where you can see restore button and click on restore button to add packages.
 
 step-2:
 Update connection string in order to connect to database.
