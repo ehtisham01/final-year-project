@@ -8,6 +8,8 @@ The application displays a camera feed via a mobile phone for now and the model 
 
 
 Steps you must folow to run this project.
+
+
 step_1: 
 Donwload packages from nuget package manager in visual studio
 Go to tools and click on Nuget Package Manager, and then click Package Manager Console, where you can restore button and click on restore button to add packages.
